@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    overflow-x: hidden;
+}
+.back{
+    background-color: #f4f4f4;
+ 
+}
+.nav{
+    border-radius: 5px;
+}
+
+.links a{
+text-decoration: none;
+color: black;
+margin-right: 1rem;
+}
+
+
+.profile ul{
+    text-align: left;
+    margin: 2rem 0;
+}
+.logo{
+    font-weight: 800;
+}
+
+.button{
+    padding: 7px 25px;
+    border-radius: 5px;
+    border: none;
+    margin: 0 1rem;
+    font-size: 14px;
+    background-color: #549934;
+    color: white;
+}
+.button:hover{
+    background-color: rgb(18, 119, 18);
+}
+
+.pages{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5%;
+    min-height: 100%;
+}
+
+  button:hover {
+    background-color:rgb(17, 136, 17);
+    color: white;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+
