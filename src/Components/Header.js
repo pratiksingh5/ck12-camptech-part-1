@@ -18,10 +18,10 @@ function Header() {
           </Nav>
         </Navbar.Collapse>
         <div className="links">
-        <a href=""><i class="ri-facebook-fill"></i></a>
-        <a href=""><i class="ri-linkedin-fill"></i></a>
-        <a href=""><i class="ri-twitter-fill"></i></a>
-        <a href=""><i class="ri-github-fill"></i></a>
+        <a href="https://campk12.com/"><i className="ri-facebook-fill"></i></a>
+        <a href="https://campk12.com/"><i className="ri-linkedin-fill"></i></a>
+        <a href="https://campk12.com/"><i className="ri-twitter-fill"></i></a>
+        <a href="https://campk12.com/"><i className="ri-github-fill"></i></a>
         </div>
     </Navbar>
 
